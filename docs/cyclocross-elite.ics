@@ -1,0 +1,1106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cxcal//Cyclocross Elite//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cyclocross Élite 2026-27
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:hg-dendermonde-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261011T113000Z
+DTEND:20261011T123000Z
+SUMMARY:HG Cross Dendermonde – Femmes
+LOCATION:Dendermonde\, Belgique
+DESCRIPTION:HG Cross · Élite Femmes\nDépart : 13:30 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Dendermonde\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-dendermonde-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261011T130000Z
+DTEND:20261011T140000Z
+SUMMARY:HG Cross Dendermonde – Hommes
+LOCATION:Dendermonde\, Belgique
+DESCRIPTION:HG Cross · Élite Hommes\nDépart : 15:00 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Dendermonde\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-meulebeke-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261017T113000Z
+DTEND:20261017T123000Z
+SUMMARY:HG Cross Meulebeke (Berencross) – Femmes
+LOCATION:Meulebeke\, Belgique
+DESCRIPTION:HG Cross · Élite Femmes\nDépart : 13:30 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Meulebeke\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-meulebeke-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261017T130000Z
+DTEND:20261017T140000Z
+SUMMARY:HG Cross Meulebeke (Berencross) – Hommes
+LOCATION:Meulebeke\, Belgique
+DESCRIPTION:HG Cross · Élite Hommes\nDépart : 15:00 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Meulebeke\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-heerde-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261024T113000Z
+DTEND:20261024T123000Z
+SUMMARY:HG Cross Heerde – Femmes
+LOCATION:Heerde\, Pays-Bas
+DESCRIPTION:HG Cross · Élite Femmes\nDépart : 13:30 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Heerde\, Pays-Bas\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-heerde-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261024T130000Z
+DTEND:20261024T140000Z
+SUMMARY:HG Cross Heerde – Hommes
+LOCATION:Heerde\, Pays-Bas
+DESCRIPTION:HG Cross · Élite Hommes\nDépart : 15:00 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Heerde\, Pays-Bas\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-overijse-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261025T123000Z
+DTEND:20261025T133000Z
+SUMMARY:Superprestige Overijse (Druivencross) – Femmes
+LOCATION:Overijse\, Belgique
+DESCRIPTION:Superprestige · Élite Femmes\nDépart : 13:30 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Overijse\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-overijse-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261025T140000Z
+DTEND:20261025T150000Z
+SUMMARY:Superprestige Overijse (Druivencross) – Hommes
+LOCATION:Overijse\, Belgique
+DESCRIPTION:Superprestige · Élite Hommes\nDépart : 15:00 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Overijse\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-koppenberg-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261101T123000Z
+DTEND:20261101T133000Z
+SUMMARY:X²O Trofee Koppenbergcross – Femmes
+LOCATION:Oudenaarde\, Belgique
+DESCRIPTION:X²O Trofee · Élite Femmes\nDépart : 13:30 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Oudenaarde\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-koppenberg-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261101T140000Z
+DTEND:20261101T150000Z
+SUMMARY:X²O Trofee Koppenbergcross – Hommes
+LOCATION:Oudenaarde\, Belgique
+DESCRIPTION:X²O Trofee · Élite Hommes\nDépart : 15:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Oudenaarde\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-middelkerke-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261105T170000Z
+DTEND:20261105T180000Z
+SUMMARY:Superprestige Middelkerke (Halloween) – Femmes
+LOCATION:Middelkerke\, Belgique
+DESCRIPTION:Superprestige · Élite Femmes\nDépart : 18:00 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Middelkerke\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-middelkerke-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261105T183000Z
+DTEND:20261105T193000Z
+SUMMARY:Superprestige Middelkerke (Halloween) – Hommes
+LOCATION:Middelkerke\, Belgique
+DESCRIPTION:Superprestige · Élite Hommes\nDépart : 19:30 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Middelkerke\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ek-zeddam-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261107T133000Z
+DTEND:20261107T143000Z
+SUMMARY:Championnats d'Europe – Femmes
+LOCATION:Zeddam\, Pays-Bas
+DESCRIPTION:Championnat · Élite Femmes\nDépart : 14:30 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Zeddam\, Pays-Bas\n
+CATEGORIES:Championnat
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ek-zeddam-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261108T133000Z
+DTEND:20261108T143000Z
+SUMMARY:Championnats d'Europe – Hommes
+LOCATION:Zeddam\, Pays-Bas
+DESCRIPTION:Championnat · Élite Hommes\nDépart : 14:30 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Zeddam\, Pays-Bas\n
+CATEGORIES:Championnat
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-niel-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261111T123000Z
+DTEND:20261111T133000Z
+SUMMARY:Superprestige Niel – Femmes
+LOCATION:Niel\, Belgique
+DESCRIPTION:Superprestige · Élite Femmes\nDépart : 13:30 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Niel\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-niel-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261111T140000Z
+DTEND:20261111T150000Z
+SUMMARY:Superprestige Niel – Hommes
+LOCATION:Niel\, Belgique
+DESCRIPTION:Superprestige · Élite Hommes\nDépart : 15:00 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Niel\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-merksplas-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261114T123000Z
+DTEND:20261114T133000Z
+SUMMARY:Superprestige Merksplas – Femmes
+LOCATION:Merksplas\, Belgique
+DESCRIPTION:Superprestige · Élite Femmes\nDépart : 13:30 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Merksplas\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-merksplas-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261114T140000Z
+DTEND:20261114T150000Z
+SUMMARY:Superprestige Merksplas – Hommes
+LOCATION:Merksplas\, Belgique
+DESCRIPTION:Superprestige · Élite Hommes\nDépart : 15:00 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Merksplas\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-hamme-zogge-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261115T124500Z
+DTEND:20261115T134500Z
+SUMMARY:X²O Trofee Bollekescross – Femmes
+LOCATION:Hamme-Zogge\, Belgique
+DESCRIPTION:X²O Trofee · Élite Femmes\nDépart : 13:45 (heure de Paris)\
+ nLieu : Hamme-Zogge\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-hamme-zogge-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261115T140000Z
+DTEND:20261115T150000Z
+SUMMARY:X²O Trofee Bollekescross – Hommes
+LOCATION:Hamme-Zogge\, Belgique
+DESCRIPTION:X²O Trofee · Élite Hommes\nDépart : 15:00 (heure de Paris)\
+ nLieu : Hamme-Zogge\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-lokeren-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261121T123000Z
+DTEND:20261121T133000Z
+SUMMARY:HG Cross Lokeren – Femmes
+LOCATION:Lokeren\, Belgique
+DESCRIPTION:HG Cross · Élite Femmes\nDépart : 13:30 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Lokeren\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-lokeren-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261121T140000Z
+DTEND:20261121T150000Z
+SUMMARY:HG Cross Lokeren – Hommes
+LOCATION:Lokeren\, Belgique
+DESCRIPTION:HG Cross · Élite Hommes\nDépart : 15:00 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Lokeren\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-beringen-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261122T123000Z
+DTEND:20261122T133000Z
+SUMMARY:X²O Trofee Be-Mine Cross – Femmes
+LOCATION:Beringen\, Belgique
+DESCRIPTION:X²O Trofee · Élite Femmes\nDépart : 13:30 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Beringen\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-beringen-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261122T140000Z
+DTEND:20261122T150000Z
+SUMMARY:X²O Trofee Be-Mine Cross – Hommes
+LOCATION:Beringen\, Belgique
+DESCRIPTION:X²O Trofee · Élite Hommes\nDépart : 15:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Beringen\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-ostrava-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261127T163000Z
+DTEND:20261127T173000Z
+SUMMARY:Coupe du Monde Ostrava – Femmes
+LOCATION:Ostrava\, Tchéquie
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 17:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Ostrava\, Tchéquie\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-ostrava-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261127T180000Z
+DTEND:20261127T190000Z
+SUMMARY:Coupe du Monde Ostrava – Hommes
+LOCATION:Ostrava\, Tchéquie
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 19:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Ostrava\, Tchéquie\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-tabor-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261129T123000Z
+DTEND:20261129T133000Z
+SUMMARY:Coupe du Monde Tábor – Femmes
+LOCATION:Tábor\, Tchéquie
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 13:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Tábor\, Tchéquie\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-tabor-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261129T140000Z
+DTEND:20261129T150000Z
+SUMMARY:Coupe du Monde Tábor – Hommes
+LOCATION:Tábor\, Tchéquie
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 15:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Tábor\, Tchéquie\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-ruddervoorde-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261206T123000Z
+DTEND:20261206T133000Z
+SUMMARY:Superprestige Ruddervoorde (Sinterklaas) – Femmes
+LOCATION:Ruddervoorde\, Belgique
+DESCRIPTION:Superprestige · Élite Femmes\nDépart : 13:30 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Ruddervoorde\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-ruddervoorde-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261206T140000Z
+DTEND:20261206T150000Z
+SUMMARY:Superprestige Ruddervoorde (Sinterklaas) – Hommes
+LOCATION:Ruddervoorde\, Belgique
+DESCRIPTION:Superprestige · Élite Hommes\nDépart : 15:00 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Ruddervoorde\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-glasgow-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261213T123000Z
+DTEND:20261213T133000Z
+SUMMARY:Coupe du Monde Glasgow – Femmes
+LOCATION:Kelvingrove Park\, Glasgow\, Écosse
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 13:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Kelvingrove Park\, Glasgow\, 
+ Écosse\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-glasgow-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261213T140000Z
+DTEND:20261213T150000Z
+SUMMARY:Coupe du Monde Glasgow – Hommes
+LOCATION:Kelvingrove Park\, Glasgow\, Écosse
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 15:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Kelvingrove Park\, Glasgow\, 
+ Écosse\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-mol-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261217T123000Z
+DTEND:20261217T133000Z
+SUMMARY:HG Cross Mol (Zilvermeercross) – Femmes
+LOCATION:Mol\, Belgique
+DESCRIPTION:HG Cross · Élite Femmes\nDépart : 13:30 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Mol\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-mol-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261217T140000Z
+DTEND:20261217T150000Z
+SUMMARY:HG Cross Mol (Zilvermeercross) – Hommes
+LOCATION:Mol\, Belgique
+DESCRIPTION:HG Cross · Élite Hommes\nDépart : 15:00 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Mol\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-antwerpen-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261219T123000Z
+DTEND:20261219T133000Z
+SUMMARY:Coupe du Monde Anvers – Femmes
+LOCATION:Anvers\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 13:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Anvers\, Belgique\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-antwerpen-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261219T140000Z
+DTEND:20261219T150000Z
+SUMMARY:Coupe du Monde Anvers – Hommes
+LOCATION:Anvers\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 15:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Anvers\, Belgique\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-koksijde-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261220T123000Z
+DTEND:20261220T133000Z
+SUMMARY:Coupe du Monde Coxyde – Femmes
+LOCATION:Koksijde\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 13:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Koksijde\, Belgique\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-koksijde-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261220T140000Z
+DTEND:20261220T150000Z
+SUMMARY:Coupe du Monde Coxyde – Hommes
+LOCATION:Koksijde\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 15:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Koksijde\, Belgique\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-hofstade-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261222T123000Z
+DTEND:20261222T133000Z
+SUMMARY:X²O Trofee Plage Cross Hofstade – Femmes
+LOCATION:Hofstade\, Belgique
+DESCRIPTION:X²O Trofee · Élite Femmes\nDépart : 13:30 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Hofstade\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-hofstade-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261222T140000Z
+DTEND:20261222T150000Z
+SUMMARY:X²O Trofee Plage Cross Hofstade – Hommes
+LOCATION:Hofstade\, Belgique
+DESCRIPTION:X²O Trofee · Élite Hommes\nDépart : 15:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Hofstade\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-loenhout-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261223T123000Z
+DTEND:20261223T133000Z
+SUMMARY:X²O Trofee Azencross – Femmes
+LOCATION:Loenhout\, Belgique
+DESCRIPTION:X²O Trofee · Élite Femmes\nDépart : 13:30 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Loenhout\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-loenhout-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261223T140000Z
+DTEND:20261223T150000Z
+SUMMARY:X²O Trofee Azencross – Hommes
+LOCATION:Loenhout\, Belgique
+DESCRIPTION:X²O Trofee · Élite Hommes\nDépart : 15:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Loenhout\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-heusden-zolder-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261225T123000Z
+DTEND:20261225T133000Z
+SUMMARY:Superprestige Heusden-Zolder (Noël) – Femmes
+LOCATION:Heusden-Zolder\, Belgique
+DESCRIPTION:Superprestige · Élite Femmes\nDépart : 13:30 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Heusden-Zolder\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-heusden-zolder-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261225T140000Z
+DTEND:20261225T150000Z
+SUMMARY:Superprestige Heusden-Zolder (Noël) – Hommes
+LOCATION:Heusden-Zolder\, Belgique
+DESCRIPTION:Superprestige · Élite Hommes\nDépart : 15:00 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Heusden-Zolder\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-gavere-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261226T123000Z
+DTEND:20261226T133000Z
+SUMMARY:Coupe du Monde Gavere – Femmes
+LOCATION:Gavere\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 13:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Gavere\, Belgique\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-gavere-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261226T140000Z
+DTEND:20261226T150000Z
+SUMMARY:Coupe du Monde Gavere – Hommes
+LOCATION:Gavere\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 15:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Gavere\, Belgique\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-namur-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261227T123000Z
+DTEND:20261227T133000Z
+SUMMARY:Coupe du Monde Namur – Femmes
+LOCATION:Namur (Citadelle)\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 13:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Namur (Citadelle)\, Belgique\
+ n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-namur-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261227T140000Z
+DTEND:20261227T150000Z
+SUMMARY:Coupe du Monde Namur – Hommes
+LOCATION:Namur (Citadelle)\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 15:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Namur (Citadelle)\, Belgique\
+ n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-besancon-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261229T123000Z
+DTEND:20261229T133000Z
+SUMMARY:Coupe du Monde Besançon – Femmes
+LOCATION:Besançon\, France
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 13:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Besançon\, France\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-besancon-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261229T140000Z
+DTEND:20261229T150000Z
+SUMMARY:Coupe du Monde Besançon – Hommes
+LOCATION:Besançon\, France
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 15:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Besançon\, France\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-diegem-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261230T170000Z
+DTEND:20261230T180000Z
+SUMMARY:Superprestige Diegem (nocturne) – Femmes
+LOCATION:Diegem\, Belgique
+DESCRIPTION:Superprestige · Élite Femmes\nDépart : 18:00 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Diegem\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-diegem-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20261230T183000Z
+DTEND:20261230T193000Z
+SUMMARY:Superprestige Diegem (nocturne) – Hommes
+LOCATION:Diegem\, Belgique
+DESCRIPTION:Superprestige · Élite Hommes\nDépart : 19:30 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Diegem\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-baal-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270101T123000Z
+DTEND:20270101T133000Z
+SUMMARY:X²O Trofee GP Sven Nys – Femmes
+LOCATION:Baal\, Belgique
+DESCRIPTION:X²O Trofee · Élite Femmes\nDépart : 13:30 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Baal\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-baal-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270101T140000Z
+DTEND:20270101T150000Z
+SUMMARY:X²O Trofee GP Sven Nys – Hommes
+LOCATION:Baal\, Belgique
+DESCRIPTION:X²O Trofee · Élite Hommes\nDépart : 15:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Baal\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-gullegem-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270102T123000Z
+DTEND:20270102T133000Z
+SUMMARY:Superprestige Gullegem – Femmes
+LOCATION:Gullegem\, Belgique
+DESCRIPTION:Superprestige · Élite Femmes\nDépart : 13:30 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Gullegem\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sp-gullegem-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270102T140000Z
+DTEND:20270102T150000Z
+SUMMARY:Superprestige Gullegem – Hommes
+LOCATION:Gullegem\, Belgique
+DESCRIPTION:Superprestige · Élite Hommes\nDépart : 15:00 (heure de Paris
+ ) — heure estimée\, à confirmer\nLieu : Gullegem\, Belgique\n
+CATEGORIES:Superprestige
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-zonhoven-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270103T123000Z
+DTEND:20270103T133000Z
+SUMMARY:Coupe du Monde Zonhoven – Femmes
+LOCATION:Zonhoven\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 13:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Zonhoven\, Belgique\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-zonhoven-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270103T140000Z
+DTEND:20270103T150000Z
+SUMMARY:Coupe du Monde Zonhoven – Hommes
+LOCATION:Zonhoven\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 15:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Zonhoven\, Belgique\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bk-bilzen-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270109T130000Z
+DTEND:20270109T140000Z
+SUMMARY:Championnat de Belgique – Femmes
+LOCATION:Bilzen\, Belgique
+DESCRIPTION:Championnat · Élite Femmes\nDépart : 14:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Bilzen\, Belgique\n
+CATEGORIES:Championnat
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bk-bilzen-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270110T140000Z
+DTEND:20270110T150000Z
+SUMMARY:Championnat de Belgique – Hommes
+LOCATION:Bilzen\, Belgique
+DESCRIPTION:Championnat · Élite Hommes\nDépart : 15:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Bilzen\, Belgique\n
+CATEGORIES:Championnat
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nk-gemert-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270110T120000Z
+DTEND:20270110T130000Z
+SUMMARY:Championnat des Pays-Bas – Femmes
+LOCATION:Gemert\, Pays-Bas
+DESCRIPTION:Championnat · Élite Femmes\nDépart : 13:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Gemert\, Pays-Bas\n
+CATEGORIES:Championnat
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nk-gemert-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270110T140000Z
+DTEND:20270110T150000Z
+SUMMARY:Championnat des Pays-Bas – Hommes
+LOCATION:Gemert\, Pays-Bas
+DESCRIPTION:Championnat · Élite Hommes\nDépart : 15:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Gemert\, Pays-Bas\n
+CATEGORIES:Championnat
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-benidorm-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270117T123000Z
+DTEND:20270117T133000Z
+SUMMARY:Coupe du Monde Benidorm – Femmes
+LOCATION:Benidorm\, Espagne
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 13:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Benidorm\, Espagne\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-benidorm-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270117T140000Z
+DTEND:20270117T150000Z
+SUMMARY:Coupe du Monde Benidorm – Hommes
+LOCATION:Benidorm\, Espagne
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 15:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Benidorm\, Espagne\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-hamme-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270123T123000Z
+DTEND:20270123T133000Z
+SUMMARY:Coupe du Monde Hamme – Femmes
+LOCATION:Hamme\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 13:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Hamme\, Belgique\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-hamme-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270123T140000Z
+DTEND:20270123T150000Z
+SUMMARY:Coupe du Monde Hamme – Hommes
+LOCATION:Hamme\, Belgique
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 15:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Hamme\, Belgique\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-hoogerheide-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270124T123000Z
+DTEND:20270124T133000Z
+SUMMARY:Coupe du Monde Hoogerheide – Femmes
+LOCATION:Hoogerheide\, Pays-Bas
+DESCRIPTION:Coupe du Monde · Élite Femmes\nDépart : 13:30 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Hoogerheide\, Pays-Bas\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc-hoogerheide-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270124T140000Z
+DTEND:20270124T150000Z
+SUMMARY:Coupe du Monde Hoogerheide – Hommes
+LOCATION:Hoogerheide\, Pays-Bas
+DESCRIPTION:Coupe du Monde · Élite Hommes\nDépart : 15:00 (heure de Pari
+ s) — heure estimée\, à confirmer\nLieu : Hoogerheide\, Pays-Bas\n
+CATEGORIES:Coupe du Monde
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wk-oostende-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270130T140000Z
+DTEND:20270130T150000Z
+SUMMARY:Championnats du Monde – Femmes
+LOCATION:Ostende\, Belgique
+DESCRIPTION:Championnat · Élite Femmes\nDépart : 15:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Ostende\, Belgique\n
+CATEGORIES:Championnat
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wk-oostende-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270131T140000Z
+DTEND:20270131T150000Z
+SUMMARY:Championnats du Monde – Hommes
+LOCATION:Ostende\, Belgique
+DESCRIPTION:Championnat · Élite Hommes\nDépart : 15:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Ostende\, Belgique\n
+CATEGORIES:Championnat
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-maldegem-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270203T123000Z
+DTEND:20270203T133000Z
+SUMMARY:HG Cross Maldegem (Parkcross) – Femmes
+LOCATION:Maldegem\, Belgique
+DESCRIPTION:HG Cross · Élite Femmes\nDépart : 13:30 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Maldegem\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-maldegem-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270203T140000Z
+DTEND:20270203T150000Z
+SUMMARY:HG Cross Maldegem (Parkcross) – Hommes
+LOCATION:Maldegem\, Belgique
+DESCRIPTION:HG Cross · Élite Hommes\nDépart : 15:00 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Maldegem\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-lille-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270207T123000Z
+DTEND:20270207T133000Z
+SUMMARY:X²O Trofee Krawatencross – Femmes
+LOCATION:Lille (Anvers)\, Belgique
+DESCRIPTION:X²O Trofee · Élite Femmes\nDépart : 13:30 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Lille (Anvers)\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-lille-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270207T140000Z
+DTEND:20270207T150000Z
+SUMMARY:X²O Trofee Krawatencross – Hommes
+LOCATION:Lille (Anvers)\, Belgique
+DESCRIPTION:X²O Trofee · Élite Hommes\nDépart : 15:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Lille (Anvers)\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-sint-niklaas-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270213T123000Z
+DTEND:20270213T133000Z
+SUMMARY:HG Cross Sint-Niklaas – Femmes
+LOCATION:Sint-Niklaas\, Belgique
+DESCRIPTION:HG Cross · Élite Femmes\nDépart : 13:30 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Sint-Niklaas\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hg-sint-niklaas-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270213T140000Z
+DTEND:20270213T150000Z
+SUMMARY:HG Cross Sint-Niklaas – Hommes
+LOCATION:Sint-Niklaas\, Belgique
+DESCRIPTION:HG Cross · Élite Hommes\nDépart : 15:00 (heure de Paris) —
+  heure estimée\, à confirmer\nLieu : Sint-Niklaas\, Belgique\n
+CATEGORIES:HG Cross
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-brussel-we@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270214T123000Z
+DTEND:20270214T133000Z
+SUMMARY:X²O Trofee Brussels Universities Cyclocross – Femmes
+LOCATION:Bruxelles\, Belgique
+DESCRIPTION:X²O Trofee · Élite Femmes\nDépart : 13:30 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Bruxelles\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:x2o-brussel-me@cxcal
+DTSTAMP:20261115T193830Z
+LAST-MODIFIED:20261115T193830Z
+SEQUENCE:0
+DTSTART:20270214T140000Z
+DTEND:20270214T150000Z
+SUMMARY:X²O Trofee Brussels Universities Cyclocross – Hommes
+LOCATION:Bruxelles\, Belgique
+DESCRIPTION:X²O Trofee · Élite Hommes\nDépart : 15:00 (heure de Paris) 
+ — heure estimée\, à confirmer\nLieu : Bruxelles\, Belgique\n
+CATEGORIES:X²O Trofee
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
