@@ -5,6 +5,8 @@
 - For upcoming races, fetches the startlist from ProCyclingStats (cross site),
   ranks the riders with the UCI cyclocross ranking and writes the top N
   in the event description.
+  Controlled by the "fetch_startlists" config key (disabled by default in
+  config.json: PCS currently blocks scripted access, see README).
 - Optionally commits and pushes the .ics to a git repository (GitHub Pages).
 
 Only the Python 3.9+ standard library is used.
