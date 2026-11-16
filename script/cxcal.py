@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Génère docs/cyclocross-elite.ics à partir de races.json.
+"""Génère cyclocross-elite.ics (racine du dépôt) à partir de races.json.
 
 Usage : python3 script/cxcal.py   (Python 3.9+, bibliothèque standard uniquement)
 """
@@ -12,7 +12,7 @@ from zoneinfo import ZoneInfo
 
 HERE = Path(__file__).resolve().parent
 RACES = HERE / "races.json"
-OUTPUT = HERE.parent / "docs" / "cyclocross-elite.ics"
+OUTPUT = HERE.parent / "cyclocross-elite.ics"
 CALENDAR_NAME = "Cyclocross Élite 2026-27"
 DURATION = timedelta(minutes=60)
 PARIS = ZoneInfo("Europe/Paris")

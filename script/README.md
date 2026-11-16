@@ -3,8 +3,8 @@
 | Fichier | Rôle |
 |---|---|
 | `races.json` | La liste des courses, à modifier à la main |
-| `cxcal.py` | Lit `races.json` et écrit `../docs/cyclocross-elite.ics` |
-| `../docs/cyclocross-elite.ics` | Le calendrier publié par GitHub Pages (dossier `docs/` de `main`) |
+| `cxcal.py` | Lit `races.json` et écrit `../cyclocross-elite.ics` |
+| `../cyclocross-elite.ics` | Le calendrier publié par GitHub Pages (racine de `main`) |
 
 ## Modifier le calendrier
 
@@ -13,7 +13,7 @@
    ```bash
    python3 script/cxcal.py
    ```
-3. Commite et pousse `script/races.json` et `docs/cyclocross-elite.ics`. Les agendas abonnés récupèrent la nouvelle version à leur prochaine actualisation.
+3. Commite et pousse `script/races.json` et `cyclocross-elite.ics`. Les agendas abonnés récupèrent la nouvelle version à leur prochaine actualisation.
 
 ## Format d'une course dans `races.json`
 
