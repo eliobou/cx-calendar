@@ -1,6 +1,6 @@
 {
   "season": "2026-2027",
-  "_doc": "Times are LOCAL race times. 'time_confirmed': false means estimated; the script replaces them with the official time found on ProCyclingStats when available. Optional 'pcs': {\"me\": \"slug\", \"we\": \"slug\"} forces the ProCyclingStats race slug.",
+  "_doc": "Heures de départ LOCALES (fuseau 'tz'). 'time_confirmed': true retire la mention « heure estimée ». 'we_date'/'me_date' remplacent 'date' quand Femmes et Hommes courent des jours différents.",
   "races": [
     {"id": "hg-dendermonde",   "name": "HG Cross Dendermonde",              "series": "HG Cross",    "location": "Dendermonde, Belgique",        "tz": "Europe/Brussels", "date": "2026-10-11", "we_time": "13:30", "me_time": "15:00"},
     {"id": "hg-meulebeke",     "name": "HG Cross Meulebeke (Berencross)",   "series": "HG Cross",    "location": "Meulebeke, Belgique",          "tz": "Europe/Brussels", "date": "2026-10-17", "we_time": "13:30", "me_time": "15:00"},
@@ -33,6 +33,7 @@
     {"id": "wc-zonhoven",      "name": "Coupe du Monde Zonhoven",           "series": "Coupe du Monde", "location": "Zonhoven, Belgique",        "tz": "Europe/Brussels", "date": "2027-01-03", "we_time": "13:30", "me_time": "15:00"},
     {"id": "bk-bilzen",        "name": "Championnat de Belgique",           "series": "Championnat", "location": "Bilzen, Belgique",             "tz": "Europe/Brussels", "we_date": "2027-01-09", "me_date": "2027-01-10", "we_time": "14:00", "me_time": "15:00"},
     {"id": "nk-gemert",        "name": "Championnat des Pays-Bas",          "series": "Championnat", "location": "Gemert, Pays-Bas",             "tz": "Europe/Amsterdam","date": "2027-01-10", "we_time": "13:00", "me_time": "15:00"},
+    {"id": "cf-france",        "name": "Championnat de France",             "series": "Championnat", "location": "France (lieu à confirmer)",    "tz": "Europe/Paris",    "date": "2027-01-10", "we_time": "13:00", "me_time": "14:30"},
     {"id": "wc-benidorm",      "name": "Coupe du Monde Benidorm",           "series": "Coupe du Monde", "location": "Benidorm, Espagne",         "tz": "Europe/Madrid",   "date": "2027-01-17", "we_time": "13:30", "me_time": "15:00"},
     {"id": "wc-hamme",         "name": "Coupe du Monde Hamme",              "series": "Coupe du Monde", "location": "Hamme, Belgique",           "tz": "Europe/Brussels", "date": "2027-01-23", "we_time": "13:30", "me_time": "15:00"},
     {"id": "wc-hoogerheide",   "name": "Coupe du Monde Hoogerheide",        "series": "Coupe du Monde", "location": "Hoogerheide, Pays-Bas",     "tz": "Europe/Amsterdam","date": "2027-01-24", "we_time": "13:30", "me_time": "15:00"},
