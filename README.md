@@ -5,7 +5,7 @@ Un calendrier `.ics` avec les courses élite Hommes et Femmes de la saison de cy
 **URL d'abonnement :**
 
 ```
-https://eliobou.github.io/cx-calendar/cyclocross-elite.ics
+https://raw.githubusercontent.com/eliobou/cx-calendar/main/cyclocross-elite.ics
 ```
 
 Fichier : [`cyclocross-elite.ics`](cyclocross-elite.ics)
